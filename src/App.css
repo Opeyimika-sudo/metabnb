@@ -56,23 +56,23 @@
 }
 
 .one {
-  top: 20%;
-  left: 2%;
+  top: 95px;
+  left: 10px;
 }
 
 .two{
   top: 0;
-  left: 45%;
+  left: 250px;
 }
 
 .three {
-  top: 64%;
-  left: 2%;
+  top: 275px;
+  left: 10px;
 }
 
 .four {
-  top: 44%;
-  left: 45%;
+  top: 180px;
+  left: 250px;
 }
 
 /* Logos */
